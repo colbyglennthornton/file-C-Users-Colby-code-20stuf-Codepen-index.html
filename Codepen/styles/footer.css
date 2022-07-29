@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #36383f;
+}
+
+.c1, .c2, .c3, .c4 {
+    display: flex;
+    border: solid #676767;
+    padding: 10px 117.4px;
+}
+
+.c1 p, .c2 p, .c3 p, .c4 p {
+    padding-top: 18px;
+    color: #ffffff;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.c1 h1, .c2 h1, .c3 h1, .c4 h1 {
+    color: #ffffff;
+    font-family: 'Noto Sans', sans-serif;
+    padding-left: 5px;
+}

@@ -1,0 +1,45 @@
+.page-container {
+    background-color: #1e2025;
+}
+
+.page-container > .lower {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.page-container > .lower >  .right-column img {
+    width: 850px;
+}
+
+.page-container > .lower > .left-column {
+    padding-left: 75px;
+}
+
+.page-container > .lower > .left-column > .p1 p {
+    color: #fefefe;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 3.5em;
+    font-weight: 100;
+}
+
+.page-container > .lower > .left-column > .p2 p {
+    color: #fefefe;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 3em;
+    font-weight: 100;
+}
+
+.page-container > .lower > .right-column p {
+    color: #fefefe;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 2em;
+    font-weight: 100;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.page-container > .lower > .left-column {
+    margin-right: 50px;
+    margin-top: -10px;
+}
